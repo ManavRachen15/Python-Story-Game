@@ -1,0 +1,8 @@
+Saviour
+
+Welcome to my Swamp
+Tutorial 
+Press N,S,E,W to travel to a direction that you want to go. 
+type in the word on wards to answer a question You only have 30 health point
+if you lose all 30 points game over try again.
+type in your character to select tank, wizard, assassin
